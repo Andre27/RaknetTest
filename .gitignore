@@ -1,0 +1,11 @@
+#File da ignorare.. (tutti)#
+##################
+/*
+
+#..Tranne#
+!Assets
+!/Assets/*
+!ProjectSettings
+!/ProjectSettings/*
+!.gitignore
+!Matches.xml
